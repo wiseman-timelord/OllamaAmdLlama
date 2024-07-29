@@ -1,0 +1,15 @@
+# data/general_settings.yaml
+
+server:
+  host: "localhost"
+  port: 11434
+
+models:
+  default: ""  # Model file path will be set by the user
+
+processing:
+  option: "none"  # options: none, avx, avx2, vulkan
+  device_id: 0
+
+logging:
+  level: "INFO"
