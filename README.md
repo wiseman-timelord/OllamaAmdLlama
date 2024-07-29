@@ -13,6 +13,9 @@ The OhLlamas! program is designed to manage and serve language models using vari
 
 ## DEVELOPMENT:
 OhLlamas! implementation still in alpha stage, it is considererd not working.
+- requires basic development.
+- requires testing for stability.
+- interactions with other programs needs testing.
 
 ### STRUCTURES:
 - The current file structures...
