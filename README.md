@@ -34,15 +34,6 @@ OhLlamas!/
 │   └── gradio_interface.py         # Creates and manages the Gradio GUI
 │
 └── libraries/
-    ├── none/                       # Directory for 'none' processing binaries
-    │   └── llama-cli.exe           # Binary for basic CPU processing
-    │
-    ├── avx/                        # Directory for 'avx' processing binaries
-    │   └── llama-cli.exe           # Binary for AVX CPU processing
-    │
-    ├── avx2/                       # Directory for 'avx2' processing binaries
-    │   └── llama-cli.exe           # Binary for AVX2 CPU processing
-    │
-    └── vulkan/                     # Directory for 'vulkan' processing binaries
-        └── llama-cli.exe           # Binary for Vulkan GPU processing
+    ├── exampleFolder/              # Directories for llama.cpp binaries
+    │   └── llama-cli.exe           # Binary for llama.cpp
 ```
