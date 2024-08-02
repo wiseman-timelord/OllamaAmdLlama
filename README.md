@@ -2,7 +2,7 @@
 Through Gradio interfaced, LM Studio and Ollama , emulation utilizing llama.cpp pre-compilled binaries for, Vulkan and avx2 and avx512.
 
 ## DESCRIPTION:
-The GoStudlyAmdLlamas! program is designed to manage and serve language models using various processing options. It offers both a REST API and a Gradio-based GUI to interact with the system, making it versatile for different use cases. The GoStudlyAmdLlamas! program provides a comprehensive solution for managing and serving language models on Windows. By utilizing pre-compiled binaries for different processing capabilities, it offers flexibility in performance optimization. The program supports  graphical user interface, making it accessible for various users and applications.
+LM Studio stopped supporting AMD compatibility for gpu, I determined the time had come for a solution to the issue; the GoStudlyAmdLlamas! program is designed to manage and serve language models using various processing options, tailored towards AMD hardware, the problem is most software is designed for nVidia, limiting AMD users to the yes more, but slower processing of most of ones processor. It offers both a REST API and a Gradio-based GUI to interact with the system, making it versatile for different use cases. The GoStudlyAmdLlamas! program provides a comprehensive solution for managing and serving language models on Windows. By utilizing pre-compiled binaries for different processing capabilities, it offers flexibility in performance optimization. The program supports  graphical user interface, making it accessible for various uses and applications.
 
 ### FEATURES:
 - Interactive Gui : User-friendly interface with Gradio, requiring no command-line input.
