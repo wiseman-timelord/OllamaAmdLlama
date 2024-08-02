@@ -1,8 +1,8 @@
 # GoStudlyLlamas!
-Through Gradio interfaced, LM Studio and Ollama , emulation utilizing llama.cpp pre-compilled binaries for, cuda and vulkan and avx2 and avx512.
+Through Gradio interfaced, LM Studio and Ollama , emulation utilizing llama.cpp pre-compilled binaries for, Vulkan and avx2 and avx512.
 
 ## DESCRIPTION:
-The OhStudlyLlamas! program is designed to manage and serve language models using various processing options. It offers both a REST API and a Gradio-based GUI to interact with the system, making it versatile for different use cases. The OhStudlyLlamas! program provides a comprehensive solution for managing and serving language models on Windows. By utilizing pre-compiled binaries for different processing capabilities, it offers flexibility in performance optimization. The program supports  graphical user interface, making it accessible for various users and applications.
+The GoStudlyLlamas! program is designed to manage and serve language models using various processing options. It offers both a REST API and a Gradio-based GUI to interact with the system, making it versatile for different use cases. The GoStudlyLlamas! program provides a comprehensive solution for managing and serving language models on Windows. By utilizing pre-compiled binaries for different processing capabilities, it offers flexibility in performance optimization. The program supports  graphical user interface, making it accessible for various users and applications.
 
 ### FEATURES:
 - Interactive Gui : User-friendly interface with Gradio, requiring no command-line input.
@@ -12,7 +12,7 @@ The OhStudlyLlamas! program is designed to manage and serve language models usin
 
 
 ## DEVELOPMENT:
-OhStudlyLlamas! implementation still in alpha stage, it is considererd not working.
+GoStudlyLlamas! implementation still in alpha stage, it is considererd not working.
 - requires basic development.
 - requires testing for stability.
 - interactions with other programs needs testing.
