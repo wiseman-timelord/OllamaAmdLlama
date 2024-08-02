@@ -1,8 +1,8 @@
-# OhLlamas!
-Ollama emulation through llama.cpp pre-compilled binaries and gradio.
+# OhStudlyLlamas!
+Ollama and LM Studio, emulation through llama.cpp pre-compilled binaries and gradio.
 
 ## DESCRIPTION:
-The OhLlamas! program is designed to manage and serve language models using various processing options. It offers both a REST API and a Gradio-based GUI to interact with the system, making it versatile for different use cases. The OhLlamas! program provides a comprehensive solution for managing and serving language models on Windows. By utilizing pre-compiled binaries for different processing capabilities, it offers flexibility in performance optimization. The program supports  graphical user interface, making it accessible for various users and applications.
+The OhStudlyLlamas! program is designed to manage and serve language models using various processing options. It offers both a REST API and a Gradio-based GUI to interact with the system, making it versatile for different use cases. The OhStudlyLlamas! program provides a comprehensive solution for managing and serving language models on Windows. By utilizing pre-compiled binaries for different processing capabilities, it offers flexibility in performance optimization. The program supports  graphical user interface, making it accessible for various users and applications.
 
 ### FEATURES:
 - Interactive Gui : User-friendly interface with Gradio, requiring no command-line input.
@@ -12,7 +12,7 @@ The OhLlamas! program is designed to manage and serve language models using vari
 
 
 ## DEVELOPMENT:
-OhLlamas! implementation still in alpha stage, it is considererd not working.
+OhStudlyLlamas! implementation still in alpha stage, it is considererd not working.
 - requires basic development.
 - requires testing for stability.
 - interactions with other programs needs testing.
